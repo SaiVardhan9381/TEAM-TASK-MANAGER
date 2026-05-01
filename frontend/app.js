@@ -1,4 +1,4 @@
-const API = "http://localhost:8000";
+const API = "";
 
 // ── State ──────────────────────────────────────────────────────────────────
 let currentUser = JSON.parse(localStorage.getItem("ttm_user")) || null;
